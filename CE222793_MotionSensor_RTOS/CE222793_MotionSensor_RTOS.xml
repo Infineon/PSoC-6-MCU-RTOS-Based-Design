@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE222793_MotionSensor_RTOS" WorkspaceName="CE222793_MotionSensor_RTOS.cywrk">
+  <Version>1.10</Version>
+  <Keyword>Motion Sensor</Keyword>
+  <Keyword>BMI160</Keyword>
+  <Keyword>E-INK Display</Keyword>  
+  <Keyword>RTOS</Keyword>
+  <Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+  <Description>This code example demonstrates how to interface a PSoC® 6 MCU with a BMI160 motion sensor. This example reads steps counted by the sensor to emulate a pedometer. Raw motion data is also read and used to estimate the orientation of the board.</Description>
+  <DeviceFilter>PSoC 63</DeviceFilter>
+  <Document>CE222793_MotionSensor_RTOS.pdf</Document>
+  <MinToolVersion>4.2</MinToolVersion>
+</Project>

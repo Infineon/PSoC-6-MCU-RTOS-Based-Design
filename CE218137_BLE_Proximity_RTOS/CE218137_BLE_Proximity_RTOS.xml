@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE218137_BLE_Proximity_RTOS" WorkspaceName="CE218137_BLE_Proximity_RTOS.cywrk">
+	<Version>1.0</Version>
+	<Keyword>BLE_PDL</Keyword> 
+	<Keyword>BLE</Keyword> 
+	<Keyword>CapSense</Keyword>
+	<Keyword>RTOS</Keyword>
+	<Keyword>FreeRTOS</Keyword> 	
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This project demonstrates connectivity between the PSoC 6 MCU with BLE and CySmart BLE host emulation tool or mobile device running the CySmart mobile application, to transfer CapSense proximity sensing information.</Description>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE218137_BLE_Proximity_RTOS.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

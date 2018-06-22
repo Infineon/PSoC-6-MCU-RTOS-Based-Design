@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE222604_RTC_CTS_RTOS" WorkspaceName="CE222604_RTC_CTS_RTOS.cywrk">
+	<Version>1.0</Version>
+	<Keyword>BLE_PDL</Keyword>
+	<Keyword>BLE</Keyword>
+	<Keyword>RTC_PDL</Keyword>	
+	<Keyword>RTC</Keyword>
+	<Keyword>RTOS</Keyword>
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example demonstrates accurate time keeping with PSoC 6 MCU's real-time clock (RTC), which is synchronized with a current time server such as an iPhone using the BLE current time service (CTS).</Description>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE222604_RTC_CTS_RTOS.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

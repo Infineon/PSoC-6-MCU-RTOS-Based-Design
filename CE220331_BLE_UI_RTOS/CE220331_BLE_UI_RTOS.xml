@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE220331_BLE_UI_RTOS" WorkspaceName="CE220331_BLE_UI_RTOS.cywrk">
+	<Version>1.0</Version>
+	<Keyword>BLE_PDL</Keyword> 
+	<Keyword>BLE</Keyword> 
+	<Keyword>CapSense</Keyword> 
+	<Keyword>RTOS</Keyword>
+	<Keyword>FreeRTOS</Keyword> 
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This project demonstrates interfacing PSoC 6 MCU with user interface functions such as an E-INK display, RGB LED, and touch sensors based on self and mutual capacitance (CapSense CSD and CSX) with bi-directional BLE connectivity.</Description>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE220331_BLE_UI_RTOS.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>

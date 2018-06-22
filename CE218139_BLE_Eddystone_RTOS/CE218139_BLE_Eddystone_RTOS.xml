@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE218139_BLE_Eddystone_RTOS" WorkspaceName="CE218139_BLE_Eddystone_RTOS.cywrk">
+	<Version>1.0</Version>
+	<Keyword>BLE_PDL</Keyword>
+	<Keyword>BLE</Keyword>
+	<Keyword>RTOS</Keyword>
+	<Keyword>FreeRTOS</Keyword> 
+	<Keyword Hidden="true">CY8CKIT-062-BLE</Keyword>
+	<Description>This code example demonstrates a BLE beacon that broadcasts the core frame types (UID, URL, and TLM) of Google's Eddystone beacon profile.</Description>
+	<DeviceFilter>PSoC 63</DeviceFilter>
+	<Document>CE218139_BLE_Eddystone_RTOS.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>
