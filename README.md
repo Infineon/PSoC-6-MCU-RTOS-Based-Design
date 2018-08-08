@@ -43,6 +43,38 @@ To use the code examples in this repository, please download and install
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
 ## Code Example List
+#### 1. CE218136 – PSoC 6 MCU E-INK Display with CapSense (RTOS)
+This code example demonstrates how to create a user-interface solution using an E-INK display with a CapSense slider and
+buttons. E-INK displays consume no power for image retention. Together with PSoC 6 MCU’s CapSense touch sensing, an EINK
+display can be used to create user interfaces that have “always-on” functionality.
+#### 2. CE218137 – PSoC 6 MCU with BLE Connectivity: BLE with Proximity (RTOS)
+This code example demonstrates connectivity between the PSoC 6 MCU with Bluetooth Low Energy (BLE) and CySmart
+BLE host emulation tool or mobile device running the CySmart mobile application, to transfer CapSense® proximity sensing
+information.
+#### 3. CE218138 – PSoC 6 MCU with BLE Connectivity: BLE Thermometer (RTOS)
+This code example demonstrates interfacing PSoC 6 MCU with BLE Connectivity (PSoC 6 MCU) with a thermistor circuit to read
+temperature information and sending the temperature data as BLE HTS indications to a mobile device running CySmart mobile
+application. In addition, PSoC 6 MCU’s real time clock (RTC) generates alarms (interrupts) at every minute to show temperature
+information on the E-INK display when BLE is not connected.
+#### 4. CE218139 – PSoC 6 MCU with BLE Connectivity: Eddystone Beacon (RTOS)
+This code example demonstrates the ability of PSoC 6 MCU with BLE Connectivity (PSoC 6 MCU) to function as a BLE beacon
+using the Broadcaster role, which transmits Eddystone fames. Eddystone is an open-source BLE beacon profile released by
+Google. This project broadcasts core Eddystone frame types—Eddystone UID, Eddystone URL, and Eddystone TLM. 
+#### 5. CE220331 – PSoC 6 MCU with BLE Connectivity: BLE with User Interface (RTOS)
+This code example demonstrates interfacing PSoC 6 MCU with an RGB LED with color and intensity control and touch buttons
+based on mutual capacitance (CSX), and touch-slider-based on self-capacitance (CSD). This code example also shows
+connectivity between the PSoC 6 BLE (acting as a Peripheral and GATT Server) and a PC running the CySmart BLE Host
+Emulation tool or a mobile device running the CySmart mobile application (acting as a Central and GATT Client). Custom BLE
+services are used for CapSense touch sensing and LED control.
+#### 6. CE222604 – PSoC 6 MCU with BLE Connectivity: RTC with Current Time Service (RTOS)
+This code example demonstrates accurate time keeping with the RTC of PSoC 6 MCU with BLE Connectivity (PSoC 6 MCU),
+which also generates alarms (interrupts) at every one minute to show time information on an E-INK display. In addition, a BLE
+CTS is used to synchronize time and date with a current time server such as an iPhone.
+#### 7. CE222793 – PSoC 6 MCU: Motion Sensor (RTOS)
+This example configures and reads data from a BMI160 motion sensor using PSoC 6 MCU. The example uses the BMI160
+motion sensor to detect and count steps from activities such as walking or running, emulating the functionality of a pedometer.
+The motion sensor’s accelerometer data is also read and converted to indicate the orientation of the sensor with respect to the
+ground. The step count and orientation information is displayed on the E-INK display.
 
 
 ## References
