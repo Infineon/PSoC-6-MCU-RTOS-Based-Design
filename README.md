@@ -42,7 +42,7 @@ To use the code examples in this repository, please download and install
 
 **Note** Please refer to the code example documentation for selecting the appropriate kit for testing the project
 
-## Code Example List
+## Code Examples List
 #### 1. CE218136 – PSoC 6 MCU E-INK Display with CapSense (RTOS)
 This code example demonstrates how to create a user-interface solution using an E-INK display with a CapSense slider and
 buttons. E-INK displays consume no power for image retention. Together with PSoC 6 MCU’s CapSense touch sensing, an EINK
